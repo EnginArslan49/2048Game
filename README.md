@@ -1,6 +1,10 @@
 # 2048 - Oyun
 
+<div align="center">
+
 ![2048 Oyun Arayüzü](Oyun-Arayüz.png)
+
+</div>
 
 **2048**, HTML5, CSS3 ve Vanilla JavaScript (Saf JavaScript) kullanılarak geliştirilmiş, klasik sayı birleştirme oyunudur.
 
