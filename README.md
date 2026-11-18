@@ -1,4 +1,6 @@
-# 2048 - Vanilla JavaScript
+# 2048 - Oyun
+
+![2048 Oyun Arayüzü](Oyun-Arayüz.png)
 
 **2048**, HTML5, CSS3 ve Vanilla JavaScript (Saf JavaScript) kullanılarak geliştirilmiş, klasik sayı birleştirme oyunudur.
 
